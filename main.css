@@ -9,3 +9,10 @@
     color: white;
     padding: 12px;
 }
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 10px;
+}

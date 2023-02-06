@@ -16,3 +16,7 @@ ul {
     list-style-type: none;
     padding: 10px;
 }
+a {
+    font-weight: 700;
+    padding: 30px;
+}

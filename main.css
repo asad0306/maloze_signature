@@ -19,4 +19,9 @@ ul {
 a {
     font-weight: 700;
     padding: 30px;
+    text-decoration: none;
+}
+
+.logo {
+    text-align: left;
 }

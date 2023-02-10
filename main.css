@@ -41,15 +41,16 @@
 }
 
 .nav-bar img {
-    height: 50px;
-    width: 100px;
+    height: 100px;
+    width: 150px;
     justify-self: start;
     margin-left: 20px;
+    border-radius: 25px;
 }
 
 .nav-bar ul {
     list-style-type: none;
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    justify-self: end;
+    padding: 10px;
 }

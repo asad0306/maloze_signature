@@ -32,3 +32,24 @@
         100% {background-position: 0% 50%}
     }
 
+.nav-bar {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+    height: 150px;
+    overflow: hidden;
+}
+
+.nav-bar img {
+    height: 50px;
+    width: 100px;
+    justify-self: start;
+    margin-left: 20px;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    justify-self: end;
+}

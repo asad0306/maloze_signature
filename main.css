@@ -41,11 +41,11 @@
 }
 
 .nav-bar img {
-    height: 100px;
-    width: 150px;
+    height: 125px;
+    width: 185px;
     justify-self: start;
     margin-left: 20px;
-    border-radius: 25px;
+    border-radius: 20px;
 }
 
 .nav-bar ul {

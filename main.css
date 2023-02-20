@@ -78,13 +78,6 @@ time, mark, audio, video {
     font-size: 20px;
 }
 
-.container-1 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    width: 150px;
-}
 
 .image {
     border: solid 2px #E73C7E;

@@ -100,7 +100,12 @@ time, mark, audio, video {
 .container-2 {
     display: flex;
     justify-content: center;
+    gap: 20px;
+    width: auto;
+}
+
+.screen {
+    border: dotted 2px red;
     width: 100%;
     height: 100%;
-    gap: 20px;
 }

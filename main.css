@@ -23,7 +23,7 @@ time, mark, audio, video {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: #76d9eb;
+    background: linear-gradient(-90deg, rgb(73, 28, 28), rgb(115, 115, 201));
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 
@@ -104,8 +104,8 @@ time, mark, audio, video {
     width: auto;
 }
 
-.screen {
+.container-2 {
     border: dotted 2px red;
-    width: 100%;
-    height: 100%;
+    width: 150%;
+    height: 150%;
 }

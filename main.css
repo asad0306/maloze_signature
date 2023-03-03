@@ -21,6 +21,7 @@ time, mark, audio, video {
 
 * {
     margin: 0;
+    --main-background: yellow;
     padding: 0;
     box-sizing: border-box;
     background: linear-gradient(-90deg, rgb(243, 110, 110), rgb(115, 115, 201));
@@ -106,5 +107,6 @@ time, mark, audio, video {
 .container-2 {
     border: dotted 2px red;
     height: min(10px, 100%);
-    width: min(10px, 100%);;
+    width: min(10px, 100%);
+    color: var(--main-background);
 }

@@ -24,7 +24,6 @@ time, mark, audio, video {
     --main-background: yellow;
     padding: 0;
     box-sizing: border-box;
-    background: linear-gradient(-90deg, rgb(243, 110, 110), rgb(115, 115, 201));
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 

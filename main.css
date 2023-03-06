@@ -105,7 +105,5 @@ time, mark, audio, video {
 
 .container-2 {
     border: dotted 2px red;
-    height: min(10px, 100%);
-    width: min(10px, 100%);
     color: var(--main-background);
 }

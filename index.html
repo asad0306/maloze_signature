@@ -39,9 +39,14 @@
             <img src="/home/jaan/Qais/THE ODIN PROJECT/maloze_signature/Images/yellow.jpg" alt="yellow" class="photo 5">
         </div>
     </main>
-    <form action="">
+    <form action="https://httpbin.org/post" method="post">
         <label for="first_name">First Name:</label>
-        <input type="text" name="First Name" id="first_name" placeholder="QAIS ANSARI.">
+        <input type="text" name="First Name" id="first_name" placeholder="QAIS."> <br>
+        <label for="last_name">Last Name:</label>
+        <input type="text" name="Last Name" id="last_name" placeholder="ANSARI."> <br>
+        <label for="age">AGE:</label>
+        <input type="date" name="age" id="age">
+        <button><strong>SUBMIT</strong></button>
     </form>
 </body>
 <script src="my.js"></script>
